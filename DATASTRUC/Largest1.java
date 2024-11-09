@@ -30,11 +30,5 @@ public class Largest1
          else
             System.out.println(z);
       }
-      
-      
-      
-      
-      
-      
    }
 }
