@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class QueueMenu
+public class QueueArrayMenu
 {
    public static void main (String[] args)
    {
